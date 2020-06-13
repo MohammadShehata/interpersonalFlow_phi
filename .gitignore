@@ -6,9 +6,6 @@
 **/*.asv
 **/*.mat
 
-# Figures
-**/figures*
-
 # Windows
 **/*.db
 **/*.ini
@@ -28,5 +25,6 @@
 **/*.tar.gz
 **/*.zip
 
-# Pyphi environment
-bin/pyphi_environment/
+# Phi-star
+phistar/
+phistar_analysis/
